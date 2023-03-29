@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * _putchar - write character c to the stdout
+ * _putchar - write character c to the stdout perfect
  * @c: the character
  * Return: 1 on success and -1 otherwise
  */
